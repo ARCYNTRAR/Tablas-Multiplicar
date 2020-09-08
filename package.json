@@ -1,0 +1,16 @@
+{
+  "name": "02-node",
+  "version": "0.1.0",
+  "description": "Esta es una introduccion a aprender node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ARCYNTRAR",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {}
+}
